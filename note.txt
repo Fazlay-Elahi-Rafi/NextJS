@@ -1,0 +1,7 @@
+To create a NEXT.js -->
+
+npx create-next-app FolderName
+
+To run NEXT.js -->
+
+npm run dev

@@ -1,0 +1,22 @@
+/* [name].module.css ->  module.css ayta scss ar moto proti section ar jono alada alada css file create kora */
+
+.btn {
+  text-transform: capitalize;
+  color: tomato;
+  border: 1px solid tomato;
+  padding: 8px 1rem;
+}
+
+.btnT {
+  text-transform: capitalize;
+  color: tomato;
+  border: 1px solid tomato;
+  padding: 8px 1rem;
+  border-radius: 50px;
+  margin: 0 0rem 0 1rem;
+}
+
+.btnTh {
+  color: white;
+  background: tomato;
+}
